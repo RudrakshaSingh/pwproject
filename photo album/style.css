@@ -1,0 +1,24 @@
+.cont{
+    display: flex;
+    border: 1px solid black;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    height: 100vh;
+    width: 100vh;
+    align-content: center;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    border:1px solid black
+}
+.box1{
+    background-color: purple;
+}
+.box2{
+    background-color: violet;
+}
+.box3{
+    background-color: brown;
+}
